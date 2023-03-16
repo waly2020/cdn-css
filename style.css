@@ -1,0 +1,27 @@
+.shadow {
+    box-shadow: 0 0 3px 4px #42424285;
+}
+
+.pdd {
+    padding: 10px;
+}
+
+.b-red {
+    background: red;
+}
+
+.b-white {
+    background-color: white;
+}
+
+.b-black {
+    background-color: black;
+}
+
+.c-red {
+    color: red;
+}
+
+.c-white {
+    color: white;
+}
